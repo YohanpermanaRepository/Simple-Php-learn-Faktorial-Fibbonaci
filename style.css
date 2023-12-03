@@ -1,0 +1,57 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    background-color: rgba(60, 255, 0, 0.881);
+    font-family: sans-serif;
+    margin-left: 300px;
+   
+}
+
+
+.judul h2{
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    width: 900px;
+    text-align: center;
+    border-radius: 20px;
+    height: 40px;
+    padding-top: 10px;
+}
+.judul h3 {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    width: 700px;
+    text-align:center;
+    border-radius: 20px;
+    height: 30px;
+    padding-top: 10px;
+    margin-left: 100px;
+    
+}
+
+.tombol ul li{
+    display: inline-block;
+    margin-left: 1cm;
+    background-color: black;
+    text-align: center;
+    width: 180px;
+    height: 30px;
+    padding-top: 10px;
+    border-radius: 20px;
+    margin-left: 67px;
+    margin-top: 20px;
+
+    
+}
+
+.tombol ul li a {
+    color: aliceblue;
+    color: rgb(186, 149, 0);
+}
